@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Automatic Script Installer by KangArie
+Automatic Script Installer
 ==========
 
 ## Usage
@@ -77,13 +77,3 @@ Tested on
 * user-login.sh
 * user-limit.sh
 * user-expire.sh
-
-## Reference
-* http://blog.jualssh.com/
-* http://blog.jualssh.com/2014/01/centos6-automatic-script-installer/
-* http://blog.jualssh.com/2014/01/debian6-sh-automatic-script-installer/
-* http://blog.jualssh.com/2014/01/debian7-sh-automatic-script-installer/
-=======
-# autoscript
->>>>>>> 7a48c195a42e13b50e70f4e22ce3dd17c65d2c25
-# autoscript
