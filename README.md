@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Automatic Script Installer
 ==========
 
